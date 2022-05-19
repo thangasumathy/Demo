@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RequestType</name>
+   <tag></tag>
+   <elementGuidId>e1a9ed61-d955-46c2-a8a0-2cb97f35923e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sourcing-request</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sourcing-request']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7c8350a1-81a6-466b-82ca-4da7f626153f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sourcingRequestType</value>
+      <webElementGuid>d6b6d33d-ac57-4382-8abc-316e4a98eb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6a1df10c-5fce-480e-9e34-2651ab3ef048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sourcing-request</value>
+      <webElementGuid>b4072d0d-ece9-4618-93ec-69b0472a6228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2b3c5c70-3f6a-4b86-b97c-a2bcd5c0b1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                
+                                Advance Sourcing
+                                GBS
+                                PCN
+                            </value>
+      <webElementGuid>1acfcb93-275f-4d46-8a5b-9237cc39a3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sourcing-request&quot;)</value>
+      <webElementGuid>ab42be6e-e6b8-4466-a676-890ac358b486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sourcing-request']</value>
+      <webElementGuid>81c21506-9c0c-4f8f-bc6e-2a54746eef89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='req-project-form']/div[9]/div/select</value>
+      <webElementGuid>247246ed-6147-417b-8d1e-7b6442a16f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>c1ec9ea7-2d8c-4806-b90c-75e69ad02c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::select[1]</value>
+      <webElementGuid>058faa6b-1e08-4661-8c4d-16ae042f9fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/select</value>
+      <webElementGuid>184e6953-8df0-4404-95eb-0ced03220a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sourcingRequestType' and @id = 'sourcing-request' and (text() = '
+                                
+                                Advance Sourcing
+                                GBS
+                                PCN
+                            ' or . = '
+                                
+                                Advance Sourcing
+                                GBS
+                                PCN
+                            ')]</value>
+      <webElementGuid>d5657306-810c-4550-81a8-5e56b49bc369</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

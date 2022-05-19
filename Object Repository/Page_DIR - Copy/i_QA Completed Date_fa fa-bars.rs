@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_QA Completed Date_fa fa-bars</name>
+   <tag></tag>
+   <elementGuidId>074a8439-a645-4170-b7a6-d342fe4c3028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='alt-finder-table']/tbody/tr/td[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bars</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b0bfaa39-8800-4241-8a86-3b5c58163e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bars</value>
+      <webElementGuid>6668363c-8dc6-42be-9259-e8d284a0faec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8d53a038-5a4b-42ad-a9ea-68244d72e95d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alt-finder-table&quot;)/tbody[1]/tr[@class=&quot;original-row alt-collapse-row ce-allowed odd&quot;]/td[@class=&quot;dt-body-center&quot;]/div[@class=&quot;dropdown trans-menu&quot;]/button[@class=&quot;btn btn-sm btn-default&quot;]/i[@class=&quot;fa fa-bars&quot;]</value>
+      <webElementGuid>7b751127-99c6-4b33-a030-7f8546d75ae3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='alt-finder-table']/tbody/tr/td[2]/div/button/i</value>
+      <webElementGuid>cf8f02a2-e66b-4b9a-ac65-d9aceffffefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/button/i</value>
+      <webElementGuid>fd3e4e51-e2ca-4d40-bb30-68821dfd3cf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

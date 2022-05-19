@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Site</name>
+   <tag></tag>
+   <elementGuidId>8b1d2b5d-4fa4-4aa4-b70c-9beaa2618791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-12-2 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-12-2']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20bdec88-352d-46ee-a2cb-4424e76e798c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1dcf66ab-44ce-4ccd-8902-bbce4e0e7256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>012 - PCBA KALLANG, SINGAPORE (012)</value>
+      <webElementGuid>30c55313-987c-41cd-9c6c-4ac87926dcca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-12-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b481c96e-15af-4235-8414-7613b5275b95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-12-2']/span[2]</value>
+      <webElementGuid>1dc4f706-66e5-4964-bfb7-7ffff9d2ae05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select site'])[3]/following::span[4]</value>
+      <webElementGuid>213b98ff-4c95-4ed7-8688-03c03324f025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select site'])[2]/following::span[6]</value>
+      <webElementGuid>f29d3bae-9983-4740-8c8f-8c16c684d190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global'])[8]/preceding::span[232]</value>
+      <webElementGuid>d0f5d908-f321-4de7-a458-03e28e12f646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div[2]/ul/li[3]/a/span[2]</value>
+      <webElementGuid>5f79fa5c-abad-4391-a66a-5b0ef5f1edc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '012 - PCBA KALLANG, SINGAPORE (012)' or . = '012 - PCBA KALLANG, SINGAPORE (012)')]</value>
+      <webElementGuid>665fdae2-2080-43c8-a639-9279cdfc3e15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

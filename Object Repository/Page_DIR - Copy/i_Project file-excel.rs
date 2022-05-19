@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Project file-excel</name>
+   <tag></tag>
+   <elementGuidId>0c91d1fe-a581-4334-b72c-bbeff4259397</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.far.fa-file-excel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='50965']/td[17]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f50d0fef-04f2-4acf-970e-2f3d0cce3f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-file-excel</value>
+      <webElementGuid>ecb8d5ad-354f-48c4-a80f-664d45e0fe2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4393ad21-cb64-40b3-9ea9-3202603aae87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;50965&quot;)/td[@class=&quot;dt-body-center action-links&quot;]/div[@class=&quot;btn-group export-dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/i[@class=&quot;far fa-file-excel&quot;]</value>
+      <webElementGuid>17701a83-9b74-4890-8b13-1ca503988357</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='50965']/td[17]/div/a/i</value>
+      <webElementGuid>84866c28-1665-4cde-b750-6663c648067c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[17]/div/a/i</value>
+      <webElementGuid>8b3f986b-9733-4d7f-a8f6-de4098fa4798</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

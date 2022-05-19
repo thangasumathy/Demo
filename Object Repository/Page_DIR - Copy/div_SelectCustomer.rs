@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SelectCustomer</name>
+   <tag></tag>
+   <elementGuidId>3119478d-65e9-4b4f-8a5f-81669bb17075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-menu.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='req-project-form']/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d9cd888-57d1-4a18-8505-4526adf84c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu show</value>
+      <webElementGuid>28593dc5-6af8-444c-891e-e53f5803b14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-placement</name>
+      <type>Main</type>
+      <value>bottom-start</value>
+      <webElementGuid>8eb590bd-df45-4361-8dc2-eae7d7eef916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>None3D SYSTEMS3M3M COMPANY3M HEALTHCARE3PARA SCHULMANA123 SYSTEMSAASTRA TELECOMAB INBEVABBABB AmericasABB LTDABB POWER ELECTRONICSABBOTT DIABETES CAREABBOTT LABORATORIESABBVIEACC MANUFACTURINGACCELLENT ENDOSCOPYACCESS DEVICESACCUTRONACEINNA, INC.ACERACLARAACRONISACS MOTION CONTROLACTELIS NETWORKSACTIAACTILITYACTION POINT</value>
+      <webElementGuid>ad9a209c-70eb-4c94-a574-8aab9f7d765e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;req-project-form&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;dropdown bootstrap-select form-control cutomer-sel show&quot;]/div[@class=&quot;dropdown-menu show&quot;]</value>
+      <webElementGuid>ad6134fc-f6dc-4142-9128-019f1df22dbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='req-project-form']/div[2]/div/div/div</value>
+      <webElementGuid>1c8d3643-ad3b-4ada-9815-9e38df22546e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[6]/following::div[1]</value>
+      <webElementGuid>9988bca0-c26e-4a1f-b628-e701987dba09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[6]</value>
+      <webElementGuid>ffeadfb1-00de-4b38-b6c0-1df2ac90a8dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div</value>
+      <webElementGuid>c25b5b95-dc31-4648-ae2f-d9912201e2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'None3D SYSTEMS3M3M COMPANY3M HEALTHCARE3PARA SCHULMANA123 SYSTEMSAASTRA TELECOMAB INBEVABBABB AmericasABB LTDABB POWER ELECTRONICSABBOTT DIABETES CAREABBOTT LABORATORIESABBVIEACC MANUFACTURINGACCELLENT ENDOSCOPYACCESS DEVICESACCUTRONACEINNA, INC.ACERACLARAACRONISACS MOTION CONTROLACTELIS NETWORKSACTIAACTILITYACTION POINT' or . = 'None3D SYSTEMS3M3M COMPANY3M HEALTHCARE3PARA SCHULMANA123 SYSTEMSAASTRA TELECOMAB INBEVABBABB AmericasABB LTDABB POWER ELECTRONICSABBOTT DIABETES CAREABBOTT LABORATORIESABBVIEACC MANUFACTURINGACCELLENT ENDOSCOPYACCESS DEVICESACCUTRONACEINNA, INC.ACERACLARAACRONISACS MOTION CONTROLACTELIS NETWORKSACTIAACTILITYACTION POINT')]</value>
+      <webElementGuid>330fdb2e-7ad3-4348-9a01-5903fc952f32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

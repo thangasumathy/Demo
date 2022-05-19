@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Project-folder-open</name>
+   <tag></tag>
+   <elementGuidId>15e40730-41f7-400c-b784-a4dc413d3a82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-folder-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='3835']/td[17]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cc0f8a09-cbad-4a6c-8ff2-542d622202e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-folder-open</value>
+      <webElementGuid>c7ea77a9-27df-4cf9-a43a-0e1c21a80815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8414d9d8-fa85-43e3-baae-a42395cf4090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3835&quot;)/td[@class=&quot;dt-body-center action-links&quot;]/a[@class=&quot;open&quot;]/i[@class=&quot;fa fa-folder-open&quot;]</value>
+      <webElementGuid>3ddfd61f-e909-416c-9fb0-c81308cbcb54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='3835']/td[17]/a/i</value>
+      <webElementGuid>8f5546ee-d532-4815-b1bf-22b8834aa4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[17]/a/i</value>
+      <webElementGuid>09f7bcdb-4eb9-45a9-9f53-7953d7ffc7d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Self Service Result from GBS  Bom Pulse_bc85b0</name>
+   <tag></tag>
+   <elementGuidId>9089d2b3-d93a-46af-8c39-ff6c44e0bea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(contains(text(), 'Self Service Result from GBS &amp; Bom Pulse has been mailed') or contains(., 'Self Service Result from GBS &amp; Bom Pulse has been mailed'))]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stoast-panel']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bca060a-cfe4-42dd-9756-0a019e99d603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-info</value>
+      <webElementGuid>4014be82-396e-4fa0-929d-0081ddafa2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>600e3330-a4f1-4547-8a43-0a4778e12e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Self Service Result from GBS &amp; Bom Pulse has been mailed</value>
+      <webElementGuid>b29c76be-3944-4372-a5f7-ef21c7989dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stoast-panel&quot;)/div[@class=&quot;alert alert-info&quot;]</value>
+      <webElementGuid>eecc23e2-520b-4442-851a-b2c3239d87c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stoast-panel']/div</value>
+      <webElementGuid>b9c745ff-2399-40b2-bc94-e22bc634be18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Self Service Result from GBS &amp; Bom Pulse has been mailed']/parent::*</value>
+      <webElementGuid>7fe29128-1a1a-49a6-be1c-5f1febc8c9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div</value>
+      <webElementGuid>bb630c0f-7b08-4c69-bad7-c08d0bcebb11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

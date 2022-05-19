@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Package Orientation Datasheet Link_fa fa-_14cd74</name>
+   <tag></tag>
+   <elementGuidId>bb8596d9-d199-4cd8-acb9-218f12224f8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='review-mpns-modal']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-angle-left.dialog-return-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4fb8b860-d802-444b-855a-4262d1aedd45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-left dialog-return-arrow</value>
+      <webElementGuid>46b53980-9fc0-4cf6-ae18-1d26ef33a6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8747f0d5-8dff-435d-9aea-217ef67f618f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-mpns-modal&quot;)/i[@class=&quot;fa fa-angle-left dialog-return-arrow&quot;]</value>
+      <webElementGuid>2cb94b16-cdb0-4503-b422-a9fbbf6f778b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='review-mpns-modal']/i</value>
+      <webElementGuid>f3fb605a-de87-4eed-be02-d6d7372029a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/i</value>
+      <webElementGuid>5a86d756-ba07-4f0c-bf5d-e4420925fe22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

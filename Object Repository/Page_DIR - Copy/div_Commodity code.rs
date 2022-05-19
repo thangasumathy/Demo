@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Commodity code</name>
+   <tag></tag>
+   <elementGuidId>4832ccce-68e1-4cef-b3f1-a9d8c5244bc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='review-table_wrapper']/div[2]/div/div/div[3]/div[2]/div/table/tbody/tr[15]/td/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.gbs-alt-review-table.compact.stripe.hover.af.dataTable.no-footer.DTFC_Cloned > tbody > tr.attribute-row.odd > td.attr-legend.padding > div.splitted-attr-col > div.splitted-attr-col-left-half > div.ihs-attr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b3b9158-b79a-44aa-b5c1-63038170dde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ihs-attr</value>
+      <webElementGuid>c7296312-640a-4101-b65d-dd7423189204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commodity code</value>
+      <webElementGuid>81816977-b499-44f4-bf52-f5b37e70d84c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-table_wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;DTFC_ScrollWrapper&quot;]/div[@class=&quot;DTFC_LeftWrapper&quot;]/div[@class=&quot;DTFC_LeftBodyWrapper&quot;]/div[@class=&quot;DTFC_LeftBodyLiner&quot;]/table[@class=&quot;gbs-alt-review-table compact stripe hover af dataTable no-footer DTFC_Cloned&quot;]/tbody[1]/tr[@class=&quot;attribute-row odd&quot;]/td[@class=&quot;attr-legend padding&quot;]/div[@class=&quot;splitted-attr-col&quot;]/div[@class=&quot;splitted-attr-col-left-half&quot;]/div[@class=&quot;ihs-attr&quot;]</value>
+      <webElementGuid>c16e2d75-fc3b-438b-83b4-39cf74e9253b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='review-table_wrapper']/div[2]/div/div/div[3]/div[2]/div/table/tbody/tr[15]/td/div/div/div</value>
+      <webElementGuid>8054fd39-1f5b-4d7b-a60a-6c29e2d556a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FFF Attribute Name'])[2]/following::div[3]</value>
+      <webElementGuid>5472a6f0-ec1e-40c0-b2a8-6621315ca274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commodity Prefix'])[2]/preceding::div[1]</value>
+      <webElementGuid>9cdcf711-34d2-4bc7-9099-1de0e4356aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dielectric Material'])[3]/preceding::div[3]</value>
+      <webElementGuid>e0c9ff92-6cf9-4d7b-b507-78fd7114b292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/table/tbody/tr[15]/td/div/div/div</value>
+      <webElementGuid>0fc318a5-2d02-4c63-b4be-a5f8373645a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

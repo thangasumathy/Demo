@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_ExportOptions</name>
+   <tag></tag>
+   <elementGuidId>0e270f1c-8ba5-4d19-bd81-c32f125657e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.float-right.project-export-bottom-margin.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='50965']/td[17]/div/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>c42191e5-c58b-457e-bd55-4154668ebd65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-menu float-right project-export-bottom-margin show</value>
+      <webElementGuid>4802ccc1-de98-4ec8-b1bd-6398bb0ca838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-placement</name>
+      <type>Main</type>
+      <value>top-start</value>
+      <webElementGuid>5eed4ba8-6fe9-48a5-bd71-b55ec3e0dd22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>With FFF AttributesWith Normalized FFF AttributesBoth</value>
+      <webElementGuid>bdc99299-a2bd-4000-b88a-5a7623c210a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;50965&quot;)/td[@class=&quot;dt-body-center action-links&quot;]/div[@class=&quot;btn-group export-dropdown show&quot;]/ul[@class=&quot;dropdown-menu float-right project-export-bottom-margin show&quot;]</value>
+      <webElementGuid>c56d9586-e358-4d5b-9217-39bd3fd085b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='50965']/td[17]/div/ul</value>
+      <webElementGuid>4ef43087-201b-49f5-ac7e-2a62cdf61b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanga Sumathy Jayakumar'])[12]/following::ul[1]</value>
+      <webElementGuid>cec82234-cb64-4a6d-82e9-b4c92e7b120e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanga Sumathy Jayakumar'])[11]/following::ul[1]</value>
+      <webElementGuid>2b15eecf-094a-4029-b11a-c85fe26014af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[17]/div/ul</value>
+      <webElementGuid>5c1f2a73-1e41-4309-af65-6805024f6e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'With FFF AttributesWith Normalized FFF AttributesBoth' or . = 'With FFF AttributesWith Normalized FFF AttributesBoth')]</value>
+      <webElementGuid>d0ba8b99-0ea6-478a-b429-ada447303617</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

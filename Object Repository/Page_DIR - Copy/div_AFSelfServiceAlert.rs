@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AFSelfServiceAlert</name>
+   <tag></tag>
+   <elementGuidId>17cfb1f6-6a2f-424f-b83e-63912ab4ae5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stoast-panel']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8bdeb75b-2b31-42b5-8586-191bc94572b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-info</value>
+      <webElementGuid>6430f5e3-bae2-4e84-bbfc-2e40bebe4488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>7733a034-db86-4476-8331-a8a7cf425105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preparing GBS &amp; BomPulse Report for the uploaded file, it will be mailed shortly</value>
+      <webElementGuid>5f770834-1b9b-4bcb-a0dc-2fcd1ff54ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stoast-panel&quot;)/div[@class=&quot;alert alert-info&quot;]</value>
+      <webElementGuid>f6c8e3af-9c64-44f1-b6fd-fe14a3c04920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stoast-panel']/div</value>
+      <webElementGuid>7c21113b-5468-4720-909f-a81c8aceb857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='It-Right Platform'])[1]/preceding::div[2]</value>
+      <webElementGuid>9a32351a-98c8-4728-9beb-0d5f8842b01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Preparing GBS &amp; BomPulse Report for the uploaded file, it will be mailed shortly']/parent::*</value>
+      <webElementGuid>1340bc71-5204-4689-93a6-5a1bd2c33c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div</value>
+      <webElementGuid>7c68fa43-2b0c-42af-bb70-68ee698ea7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Preparing GBS &amp; BomPulse Report for the uploaded file, it will be mailed shortly
+			At 5:05:33 PM' or . = 'Preparing GBS &amp; BomPulse Report for the uploaded file, it will be mailed shortly
+			At 5:05:33 PM')]</value>
+      <webElementGuid>f9c809e1-a46f-43ef-8dd7-bbec3b071fc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

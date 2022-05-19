@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PIR-TEST-0005</name>
+   <tag></tag>
+   <elementGuidId>3a6538fd-c059-4186-aefc-e4f812917cbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='review-table_wrapper']/div[2]/div/div/div[3]/div/table/thead/tr/th[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.gbs-alt-review-table.compact.stripe.hover.af.dataTable.no-footer.DTFC_Cloned > thead > tr.review-mpn > th.legend.mpn-header.2143704.blue > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f5cb111-41e8-4ee4-9c42-3799af7024a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PIR-TEST-0005</value>
+      <webElementGuid>5e2305ec-cef9-443f-8650-f6f05572c844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-table_wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;DTFC_ScrollWrapper&quot;]/div[@class=&quot;DTFC_LeftWrapper&quot;]/div[@class=&quot;DTFC_LeftHeadWrapper&quot;]/table[@class=&quot;gbs-alt-review-table compact stripe hover af dataTable no-footer DTFC_Cloned&quot;]/thead[1]/tr[@class=&quot;review-mpn&quot;]/th[@class=&quot;legend mpn-header 2143704 blue&quot;]/span[1]</value>
+      <webElementGuid>d9a3ae01-6ffd-4d94-a895-f33083e57ac9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='review-table_wrapper']/div[2]/div/div/div[3]/div/table/thead/tr/th[2]/span</value>
+      <webElementGuid>5a036256-567c-48a3-9ee6-c5140d013dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revert'])[3]/following::span[1]</value>
+      <webElementGuid>afe9894a-bd24-4225-b4e0-c5bdfe4b5531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[4]/following::span[1]</value>
+      <webElementGuid>22cebfd8-b80e-4460-96c2-0c9f33c12699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturer'])[4]/preceding::span[1]</value>
+      <webElementGuid>1505b1a3-f128-4db1-9174-789d1cd51340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIRCATEX'])[8]/preceding::span[1]</value>
+      <webElementGuid>004c13a9-e615-47d7-92af-7061d39ff5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/thead/tr/th[2]/span</value>
+      <webElementGuid>0b93a648-a8ae-4853-8cf2-066d0446a18e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

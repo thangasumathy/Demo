@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Project success msg</name>
+   <tag></tag>
+   <elementGuidId>ddd1ea3c-4d69-436a-9060-9f60a8a53ecb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;stoast-panel&quot;)/div[@class=&quot;alert alert-success&quot;][count(. | //*[@class = 'alert alert-success' and (contains(text(), 'Project File for Dummy MPN successfully created') or contains(., 'Project File for Dummy MPN successfully created'))]) = count(//*[@class = 'alert alert-success' and (contains(text(), 'Project File for Dummy MPN successfully created') or contains(., 'Project File for Dummy MPN successfully created'))])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='stoast-panel']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f22cd85-6ef0-4b2c-bd3d-5bcae403e259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success</value>
+      <webElementGuid>4b27bbd8-2b64-42c9-85ed-153f27eff5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>6cc1a149-da26-4737-8caf-34baa759ed9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project File for Dummy MPN successfully created</value>
+      <webElementGuid>f06849f2-54cd-4b69-a2d0-1a3cf014d024</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stoast-panel&quot;)/div[@class=&quot;alert alert-success&quot;]</value>
+      <webElementGuid>9becfb9a-037e-4681-a8e8-eb89283d9337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stoast-panel']/div</value>
+      <webElementGuid>e138ec5e-3402-4c4b-9723-bc784cd54985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIR / DIR'])[1]/preceding::div[3]</value>
+      <webElementGuid>cdd81adb-9e8c-4738-91c9-8e04b1cc1d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Project GBS_AF_AC_MV_Sample File successfully created']/parent::*</value>
+      <webElementGuid>fc75b455-2b4c-43ab-ad54-2f0f58e4b8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div</value>
+      <webElementGuid>1b8b9cdb-d262-4c51-8b6d-95fa80d9d040</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

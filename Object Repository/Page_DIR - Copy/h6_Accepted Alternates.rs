@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Accepted Alternates</name>
+   <tag></tag>
+   <elementGuidId>9a56326b-ccf2-412a-b4b9-237d20cd59c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gbs-main-page']/div[3]/div/div/ul/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.dropdown-header.highlight-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>3732e349-f775-4a0e-bf55-5b06ea092ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-header highlight-title</value>
+      <webElementGuid>9dc2031c-ed10-47fc-afc9-9a90eeee4dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accepted Alternates</value>
+      <webElementGuid>c2dafc80-5edf-43d1-8488-7149c4954855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gbs-main-page&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;btn-group show&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/h6[@class=&quot;dropdown-header highlight-title&quot;]</value>
+      <webElementGuid>13a1b537-347e-4ac2-b1a2-5f7a99e74601</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gbs-main-page']/div[3]/div/div/ul/h6</value>
+      <webElementGuid>069eda7d-faf7-4bea-afc3-696cac35b919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='With FFF Attributes'])[1]/preceding::h6[1]</value>
+      <webElementGuid>943e6ff0-6509-4845-877b-8ae7e1a67d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='With Normalized FFF Attributes'])[1]/preceding::h6[1]</value>
+      <webElementGuid>6af89e0b-c539-40e4-80ee-b6bfea999dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accepted Alternates']/parent::*</value>
+      <webElementGuid>2313454c-a678-44b0-8118-9e91e96a9b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>b1daa578-d206-4d24-968c-acf33cdc7841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
